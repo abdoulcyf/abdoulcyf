@@ -11,7 +11,8 @@ I'm Abdoul, a budding full-stack developer excited abdout the endless possibilit
 - **Eyes on the Horizon:** Dreaming of mastering React, Node.js, and art of databases.
 
 ### 🪴What's Next:
-- **Full_Stack Dream:** Working hard to bridge the gap between front-end and back-end developement.  
+- **Full_Stack Dream:** Working hard to bridge the gap between front-end and back-end developement.
+- **Exciting News:** Joining the selection pool at 01founders in January — a significant step in my coding journey!
 - **Open to Collaboration:** Ready to learn from the community, contribute to open source and embrace the challenges ahead.    
 
 Excited to embark on this coding journey, one line of code at a time. Let's learn and build together!
